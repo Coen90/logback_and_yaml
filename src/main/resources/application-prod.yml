@@ -1,0 +1,3 @@
+server:
+  message: prod
+  codes: prod-a, prod-b, prod-c, prod-d, prod-e

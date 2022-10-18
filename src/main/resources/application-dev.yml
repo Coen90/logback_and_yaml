@@ -1,0 +1,3 @@
+server:
+  message: dev
+  codes: dev-a, dev-b, dev-c, dev-d, dev-e

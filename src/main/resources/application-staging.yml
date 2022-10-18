@@ -1,0 +1,3 @@
+server:
+  message: staging
+  codes: staging-a, staging-b, staging-c, staging-d, staging-e
